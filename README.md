@@ -6,9 +6,6 @@ A personal portfolio website developed using HTML5 and CSS3 as part of the 7-Day
 Dhaniya O V
 - B.Tech ECE Student
 - Government Engineering College Idukki
-- Program Head, SHE GECI
-- NSS Unit 136 Volunteer
-- GATE 2026 Aspirant
 
 ## Technologies Used
 - HTML5
