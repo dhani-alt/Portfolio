@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A personal portfolio website developed using HTML5 and CSS3 as part of the 7-Day Web Development Bootcamp.
+A personal portfolio website developed using HTML5 and CSS3 as part of the 5-Day Web Development Bootcamp.
 
 ## About Me
 Dhaniya O V
