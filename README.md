@@ -1,19 +1,24 @@
-# My Portfolio
+# Personal Portfolio Website
 
-A simple portfolio website built with HTML and CSS.
+A personal portfolio website developed using HTML5 and CSS3 as part of the 7-Day Web Development Bootcamp.
 
-## Live Link
-[View Website](https://dhani-alt.github.io/7day-bootcamp/)
+## About Me
+Dhaniya O V
+- B.Tech ECE Student
+- Government Engineering College Idukki
+- Program Head, SHE GECI
+- NSS Unit 136 Volunteer
+- GATE 2026 Aspirant
 
 ## Technologies Used
 - HTML5
 - CSS3
+- GitHub Pages
 
-## Pages
-- About Me
-- Projects
-- Skills
+## Features
+- About Me Section
+- Skills Section
+- Leadership & Activities
+- Projects Showcase
 - Contact Form
-
-## Author
-Dhaniya OV
+- Responsive Design
